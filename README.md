@@ -4,4 +4,6 @@
 
 Tecnologías usadas:
 
-- HTML
+- HTML 
+
+Puedes ver este proyecto en el siguiente link https://kathe-hub.github.io/curr-culum-vitae/
